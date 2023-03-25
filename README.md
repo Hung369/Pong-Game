@@ -1,2 +1,2 @@
 # Pong-Game
-My first game project
+My first Python game project
